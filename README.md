@@ -19,6 +19,7 @@ My Java LeetCode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
+| [1051-height-checker](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -71,6 +72,7 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -82,4 +84,12 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
