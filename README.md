@@ -22,6 +22,7 @@ My Java LeetCode solutions
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1773-count-items-matching-a-rule) |
@@ -69,4 +70,5 @@ My Java LeetCode solutions
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
