@@ -111,6 +111,7 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
