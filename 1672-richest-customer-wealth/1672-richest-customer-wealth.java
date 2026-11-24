@@ -2,17 +2,19 @@ class Solution {
     public int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
         
-        // Iterate through each customer
-        for (int[] customer : accounts) {
+        // Iterate through each customer (row)
+        for (int[] customerAccounts : accounts) {
             int currentWealth = 0;
             
-            // Sum all accounts for the current customer
-            for (int bank : customer) {
-                currentWealth += bank;
+            // Sum all bank balances for the current customer
+            for (int balance : customerAccounts) {
+                currentWealth += balance;
             }
             
-            // Update maxWealth if the current customer is richer
-            maxWealth = Math.max(maxWealth, currentWealth);
+            // Update maxWealth if this customer is richer
+            if (currentWealth > maxWealth) {
+                maxWealth = currentWealth;
+            }
         }
         
         return maxWealth;
