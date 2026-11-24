@@ -17,6 +17,7 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -29,6 +30,7 @@ My Java LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -68,7 +70,16 @@ My Java LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
