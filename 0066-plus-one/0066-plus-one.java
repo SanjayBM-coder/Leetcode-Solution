@@ -1,20 +1,18 @@
 class Solution {
     public int[] plusOne(int[] digits) {
         int n = digits.length;
-        
-        // Traverse the array from the end to the beginning
+
+        // Traverse from the rightmost digit to the leftmost
         for (int i = n - 1; i >= 0; i--) {
-            // If the current digit is less than 9, increment and return
             if (digits[i] < 9) {
                 digits[i]++;
-                return digits;
+                return digits; // No further carry needed
             }
-            
-            // Otherwise, set current digit to 0 and carry over 1
+            // If the digit is 9, it becomes 0 and we carry 1 to the next iteration
             digits[i] = 0;
         }
-        
-        // If all digits were 9, we need an extra leading 1
+
+        // If all digits were 9 (e.g., [9, 9] ->)
         int[] result = new int[n + 1];
         result[0] = 1;
         return result;
