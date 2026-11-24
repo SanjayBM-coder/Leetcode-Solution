@@ -15,6 +15,7 @@ My Java LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
@@ -32,4 +33,12 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
