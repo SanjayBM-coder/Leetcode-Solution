@@ -25,6 +25,7 @@ My Java LeetCode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0724-find-pivot-index](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1051-height-checker) |
@@ -117,4 +118,8 @@ My Java LeetCode solutions
 | ------- |
 | [0001-two-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0001-two-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
