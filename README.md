@@ -80,6 +80,7 @@ My Java LeetCode solutions
 | [0728-self-dividing-numbers](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2427-number-of-common-factors) |
 ## Binary Search
@@ -160,6 +161,7 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0067-add-binary) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
 | ------- |
