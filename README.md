@@ -15,6 +15,7 @@ My Java LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -39,10 +40,12 @@ My Java LeetCode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -51,4 +54,8 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
