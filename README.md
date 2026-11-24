@@ -6,6 +6,7 @@ My Java LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0709-to-lower-case) |
@@ -19,6 +20,7 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0066-plus-one) |
@@ -142,4 +144,8 @@ My Java LeetCode solutions
 | [0724-find-pivot-index](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
