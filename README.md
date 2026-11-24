@@ -83,6 +83,7 @@ My Java LeetCode solutions
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
