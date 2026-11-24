@@ -36,6 +36,7 @@ My Java LeetCode solutions
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -122,4 +123,5 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
