@@ -15,6 +15,7 @@ My Java LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
@@ -42,7 +43,12 @@ My Java LeetCode solutions
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
