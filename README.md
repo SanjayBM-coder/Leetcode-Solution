@@ -13,6 +13,7 @@ My Java LeetCode solutions
 | [1678-goal-parser-interpretation](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1773-count-items-matching-a-rule) |
 | [2000-reverse-prefix-of-word](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My Java LeetCode solutions
 | [1572-matrix-diagonal-sum](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1773-count-items-matching-a-rule) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
