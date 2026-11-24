@@ -24,4 +24,12 @@ My Java LeetCode solutions
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanjayBM-coder/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
